@@ -12,7 +12,7 @@ import javax.persistence.*;
  *      @Column
  */
 @Entity
-@Table(name="cst_customer")
+@Table(name="cst2_customer")
 public class Customer {
 
     @Id

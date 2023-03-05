@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="d39e621c-d06e-4477-9684-fb933c45a2ff" />
+          <option name="name" value="customer" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/../14-Spring Data JPA-20230207T155534Z-001/14-Spring Data JPA/03-第三天/课件资料/课件资料/02-资料/customer.sql" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>

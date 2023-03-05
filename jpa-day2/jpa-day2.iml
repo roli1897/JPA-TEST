@@ -6,7 +6,7 @@
         <setting name="validation-enabled" value="true" />
         <setting name="provider-name" value="Hibernate" />
         <datasource-mapping>
-          <factory-entry name="jpa-day2" value="c0482de2-230e-47a0-b819-d6637f6b6691" />
+          <factory-entry name="jpa-day2" value="d39e621c-d06e-4477-9684-fb933c45a2ff" />
         </datasource-mapping>
         <naming-strategy-map />
       </configuration>

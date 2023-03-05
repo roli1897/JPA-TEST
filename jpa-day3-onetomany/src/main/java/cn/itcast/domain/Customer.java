@@ -14,7 +14,7 @@ import java.util.Set;
  *      @Column
  */
 @Entity
-@Table(name="cst_customer")
+@Table(name="cst2_customer")
 public class Customer {
 
     @Id
@@ -66,7 +66,7 @@ public class Customer {
 
       */
     @OneToMany(mappedBy = "customer",cascade = CascadeType.ALL)
-    private Set<LinkMan> linkMans = new HashSet<>();
+    private Set<LinkMan> linkMans = new HashSet<LinkMan>();
 
     public Long getCustId() {
         return custId;

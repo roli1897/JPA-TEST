@@ -5,7 +5,9 @@
       <configuration>
         <setting name="validation-enabled" value="true" />
         <setting name="provider-name" value="Hibernate" />
-        <datasource-mapping />
+        <datasource-mapping>
+          <factory-entry name="jpa-day3-onetomany" value="d39e621c-d06e-4477-9684-fb933c45a2ff" />
+        </datasource-mapping>
         <naming-strategy-map />
       </configuration>
     </facet>
