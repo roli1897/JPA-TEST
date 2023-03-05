@@ -5,7 +5,9 @@
       <configuration>
         <setting name="validation-enabled" value="true" />
         <setting name="provider-name" value="Hibernate" />
-        <datasource-mapping />
+        <datasource-mapping>
+          <factory-entry name="jpa-day2" value="c0482de2-230e-47a0-b819-d6637f6b6691" />
+        </datasource-mapping>
         <naming-strategy-map />
       </configuration>
     </facet>
@@ -63,5 +65,6 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-test:5.0.2.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: javax.el:javax.el-api:2.2.4" level="project" />
     <orderEntry type="library" name="Maven: org.glassfish.web:javax.el:2.2.4" level="project" />
+    <orderEntry type="library" name="mysql:mysql-connector-java:8.0.30" level="project" />
   </component>
 </module>
